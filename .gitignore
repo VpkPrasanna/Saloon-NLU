@@ -1,3 +1,11 @@
+# Project Specific
+data
+models_out
+my_awesome_model
+inference.py
+main.py
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
